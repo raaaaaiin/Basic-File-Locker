@@ -1,0 +1,38 @@
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\bin\Debug\MEGZ.exe
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\bin\Debug\MEGZ.pdb
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\bin\Debug\MEGZ.xml
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\MEGZ.Form1.resources
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\MEGZ.Resources.resources
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\MEGZ.exe
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\MEGZ.xml
+C:\Users\senior\AppData\Local\Temporary Projects\MEGZ\obj\x86\Debug\MEGZ.pdb
+C:\Users\senior\documents\visual studio 2010\Projects\MEGZ\MEGZ\obj\x86\Debug\MEGZ.exe
+C:\Users\senior\documents\visual studio 2010\Projects\MEGZ\MEGZ\obj\x86\Debug\MEGZ.xml
+C:\Users\senior\documents\visual studio 2010\Projects\MEGZ\MEGZ\obj\x86\Debug\MEGZ.pdb
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.exe
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.xml
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.pdb
+G:\ \MEGZ\MEGZ\bin\Debug\MEGZ.exe
+G:\ \MEGZ\MEGZ\bin\Debug\MEGZ.pdb
+G:\ \MEGZ\MEGZ\bin\Debug\MEGZ.xml
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.vbprojResolveAssemblyReference.cache
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.Form1.resources
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.Resources.resources
+G:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.vbproj.GenerateResource.Cache
+E:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.exe
+E:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.xml
+E:\ \MEGZ\MEGZ\obj\x86\Debug\MEGZ.pdb
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\bin\Debug\MEGZ.exe
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\bin\Debug\MEGZ.pdb
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\bin\Debug\MEGZ.xml
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.vbprojAssemblyReference.cache
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.Form1.resources
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.Resources.resources
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.vbproj.GenerateResource.cache
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.vbproj.CoreCompileInputs.cache
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.exe
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.xml
+C:\Users\Reyn\Desktop\Portfolio\Vb.net\MEGZ\MEGZ\obj\x86\Debug\MEGZ.pdb
